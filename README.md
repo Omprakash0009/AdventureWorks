@@ -151,7 +151,7 @@ Break down total orders by category, subcategory, and product.
 ## Visualization
 Insert decomposition tree here:
 
-![Decomposition Tree](decomposition_tree.png)
+![Decomposition Tree](https://github.com/Omprakash0009/AdventureWorks/blob/main/Decomposition%20Tree.jpg?raw=true)
 
 ---
 
