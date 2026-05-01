@@ -154,6 +154,13 @@ Insert decomposition tree here:
 ![Decomposition Tree](https://github.com/Omprakash0009/AdventureWorks/blob/main/Decomposition%20Tree.jpg?raw=true)
 
 ---
+## 📐 Data Modeling
+
+- I used a **Snowflake schema**, with clean relationships across tables.
+
+![Data Model](https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Data%20Modeling.png)
+
+---
 
 ## Analysis Performed
 - Connected and transformed raw CSV data  
