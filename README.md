@@ -118,7 +118,7 @@ Provide drill-down insights for product categories.
 ## Visualization
 Insert tooltip visualization here:
 
-![Category Tooltip](category_tooltip.png)
+![Category Tooltip](https://github.com/Omprakash0009/AdventureWorks/blob/main/Catogery%20Tooltip.jpg?raw=true)
 
 ---
 
