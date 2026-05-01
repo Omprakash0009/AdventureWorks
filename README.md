@@ -134,7 +134,7 @@ Enable natural language queries for quick insights.
 ## Visualization
 Insert Q&A visual here:
 
-![Q&A](qa.png)
+![Q&A](https://github.com/Omprakash0009/AdventureWorks/blob/main/Q&A.jpg?raw=true)
 
 ---
 
