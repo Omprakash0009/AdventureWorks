@@ -52,7 +52,7 @@ Provide a high-level overview of business performance.
 ## Visualization
 Insert your executive dashboard here:
 
-![Executive Dashboard](exec_dashboard.png)
+![Executive Dashboard](https://raw.githubusercontent.com/Omprakash0009/AdventureWorks/dfd3d7b0f7ec3b1a9bb4eb7a63acd60ddc44298e/Exec%20Dashboard.jpg)
 
 ---
 
