@@ -85,7 +85,7 @@ Analyze product performance and category contribution.
 ## Visualization
 Insert product details dashboard here:
 
-![Product Details](product_details.png)
+![Product Details](https://github.com/Omprakash0009/AdventureWorks/blob/main/Product%20Details.jpg?raw=true)
 
 ---
 
