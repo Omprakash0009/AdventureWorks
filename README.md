@@ -158,7 +158,7 @@ Insert decomposition tree here:
 
 - I used a **Snowflake schema**, with clean relationships across tables.
 
-![Data Model](https://github.com/Anand-Cinenkanolu/Adventure-Works/blob/main/Adventure%20Works%20Files/Data%20Modeling.png)
+![Data Model](https://github.com/Omprakash0009/AdventureWorks/blob/main/Data%20Modeling.png?raw=true))
 
 ---
 
