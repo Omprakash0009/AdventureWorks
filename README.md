@@ -68,7 +68,7 @@ Analyze sales distribution across global regions.
 ## Visualization
 Insert your map here:
 
-![Map](map.png)
+![Map](https://github.com/Omprakash0009/AdventureWorks/blob/main/Map.jpg?raw=true)
 
 ---
 
