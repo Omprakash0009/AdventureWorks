@@ -102,7 +102,7 @@ Identify high-value customers and customer behavior.
 ## Visualization
 Insert customer dashboard here:
 
-![Customer Details](customer_details.png)
+![Customer Details](https://github.com/Omprakash0009/AdventureWorks/blob/main/Customer%20Details.jpg?raw=true)
 
 ---
 
